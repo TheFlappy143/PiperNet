@@ -1,0 +1,281 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,500&display=swap');
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    margin: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 36px;
+    width: 1219px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 1219px;
+    height: 84px;
+    background-color: #007765;
+}
+
+.logoh {
+    float: left;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+
+.silki {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-right: 54px;
+    margin-top: 28px;
+    float: right;
+}
+
+.str1 {
+    width: 1219px;
+    height: 403px;
+    background-image: url(img/image9.png);
+    margin-top: 48px;
+}
+
+.str1 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    color: #FFFFFF;
+    padding-top: 160px;
+    padding-bottom: 160px;
+    text-align: center;
+}
+
+.str2 {
+    width: 1219px;
+    height: 719px;
+    background-color: #EEEEEE;
+
+}
+
+.str2 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    color: #007765;
+    padding-top: 48px;
+    text-align: center;
+}
+
+.str2 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+    padding-left: 55px;
+}
+
+#theproblem {
+    margin-top: -84px;
+    margin-top: -84px;
+    padding-top: 84px;
+}
+
+#hn1 {
+    padding-top: 84px;
+    margin-top: -84px;
+}
+
+.str3 {
+    width: 1219px;
+    height: 483px;
+    background-image: url(img/image10.png);
+}
+
+.str3 .txt {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+#PiedPiperCoin {
+    padding-top: 84px;
+    margin-top: -84px;
+}
+
+.str4 {
+    width: 1219px;
+    height: 604px;
+    background-color: #FFFFFF;
+}
+
+.str4 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    color: #007765;
+    text-align: center;
+    padding-top: 48px;
+    margin-bottom: 16px;
+}
+
+.logppc {
+    float: left;
+    padding-left: 55px;
+    margin-right: 48px;
+}
+
+.str4 .txt {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+    text-align: left;  
+    padding-left: 55px;  
+}
+
+i {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+}
+
+.p2 {
+    padding-top: 40px;
+}
+
+#theteam {
+    padding-top: 84px;
+    margin-top: -84px;
+}
+
+.str5 {
+    width: 1219px;
+    height: 845px;
+    background-color: #EEEEEE;
+}
+
+.str5 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    color: #007765;
+    text-align: center;
+    padding-top: 48px;
+    margin-bottom: 32px;
+}
+
+.tmt {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+}
+
+.tmt #t1 {
+    height: 283px;
+    width: 350px;
+    background-color: #EEEEEE;
+}
+
+.tmt #t2 {
+    height: 283px;
+    width: 350px;
+    background-color: #EEEEEE;
+}
+
+.tmt #t3 {
+    height: 283px;
+    width: 350px;
+    background-color: #EEEEEE;
+}
+
+.tmt #t4 {
+    height: 283px;
+    width: 350px;
+    background-color: #EEEEEE;
+    margin-top: 30px;
+}
+
+.tmt #t5 {
+    height: 283px;
+    width: 350px;
+    background-color: #EEEEEE;
+    margin-top: 30px;
+}
+
+.tmt #t6 {
+    height: 283px;
+    width: 350px;
+    background-color: #EEEEEE;
+    margin-top: 30px;
+}
+
+.str5 img {
+    margin-top: 24px;
+    margin-left: 91px;
+    margin-right: 91px;
+}
+
+.str5 h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #007765;
+    text-align: center;
+}
+
+.str5 .pod {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+}
+
+.end {
+    height: 176px;
+    width: 1219px;
+    background-color: #333333;
+}
+
+.end .txt {    
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 18px;
+    color: #FFFFFF; 
+    padding: 48px 339px 64px 340px;
+    text-align: center;
+
+}
+
+
+
+
+
